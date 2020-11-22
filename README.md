@@ -10,13 +10,13 @@
 - Learning more about MVVM, and clean Coding :building_construction:
 - Understanding Android Architecture and Kotlin better :green_book:
 
-#### Tech Stack :- 
+#### Tech Stack :diamond_shape_with_a_dot_inside:	
 - Kotlin, Java
 - Android Studio
 - MySQL, Firebase, Room
 - C++ (Competitive Programming)
 
-#### Hoping to Improve :- 
+#### Hoping to Improve :arrow_up:
 - More Contributions to Open Source Projects
 - Data Structures and Algorithm Solving Skills
 - Time Management
