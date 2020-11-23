@@ -6,7 +6,7 @@
 - Likes to do Competitive Programming :keyboard:
 
 #### What I am currently doing ? :hammer_and_wrench:
-- Currently working on a Firebase Chat Application :incoming_envelope:
+- Currently working on a Firebase Chat Application / Instagram Clone :incoming_envelope:
 - Learning more about MVVM, and clean Coding :building_construction:
 - Understanding Android Architecture and Kotlin better :green_book:
 
