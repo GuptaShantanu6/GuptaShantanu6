@@ -19,7 +19,7 @@
 #### Hoping to Improve :arrow_up:
 - More Contributions to Open Source Projects
 - Data Structures and Algorithm Solving Skills
-- Time Management
+
 <!--
 **GuptaShantanu6/GuptaShantanu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
