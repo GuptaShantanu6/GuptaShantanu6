@@ -14,7 +14,7 @@
 - Kotlin <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="23" height="23"/>
 - Android Studio 
 - Google Firebase :small_red_triangle:
-- MySQL, Room
+- MySQL, Room  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="23" height="23"/>
 - C++ (Competitive Programming) <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="23" height="23"/>
 
 #### Hoping to Improve :arrow_up:
