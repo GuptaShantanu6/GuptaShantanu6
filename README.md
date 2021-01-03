@@ -13,6 +13,7 @@
 #### Tech Stack :diamond_shape_with_a_dot_inside:	
 - Kotlin, Java
 - Android Studio
+- Google Firebase
 - MySQL, Firebase, Room
 - C++ (Competitive Programming)
 
