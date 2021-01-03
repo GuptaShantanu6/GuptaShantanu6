@@ -12,7 +12,7 @@
 
 #### Tech Stack :diamond_shape_with_a_dot_inside:	
 - Kotlin <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="15" height="15"/>
-- Android Studio 
+- Android Studio <img src="https://user-images.githubusercontent.com/3579516/89849306-17fa7780-db3d-11ea-83e8-ce1be0ee979d.png" width="15" height="15"/>
 - Google Firebase :small_red_triangle:
 - MySQL, Room  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="23" height="23"/>
 - C++ (Competitive Programming) <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="23" height="23"/>
