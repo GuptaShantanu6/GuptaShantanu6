@@ -11,11 +11,11 @@
 - Understanding Android Architecture and Kotlin better :green_book:
 
 #### Tech Stack :diamond_shape_with_a_dot_inside:	
-- Kotlin, Java
-- Android Studio
-- Google Firebase
-- MySQL, Firebase, Room
-- C++ (Competitive Programming)
+- Kotlin <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="23" height="23"/>
+- Android Studio 
+- Google Firebase :small_red_triangle:
+- MySQL, Room
+- C++ (Competitive Programming) <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="23" height="23"/>
 
 #### Hoping to Improve :arrow_up:
 - More Contributions to Open Source Projects
