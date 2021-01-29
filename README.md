@@ -7,7 +7,7 @@
 
 #### What I am currently doing ? :hammer_and_wrench:
 - Currently working on a Firebase Chat Application / Instagram Clone :incoming_envelope:
-- Learning more about MVVM, and clean Coding :building_construction:
+- Learning more about MVVM, clean Coding, Coroutines :building_construction:
 - Understanding Android Architecture and Kotlin better :green_book:
 
 #### Tech Stack :diamond_shape_with_a_dot_inside:	
