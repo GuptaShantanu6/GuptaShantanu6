@@ -3,7 +3,7 @@
 #### Who Am I ? :thinking:
 - A Computer Science Student :student:
 - An Aspiring Android Developer :iphone: <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="20" height="20"/>
-- Likes to do Competitive Programming :keyboard:
+- Competetive Programmer :keyboard:
 
 #### What I am currently doing ? :hammer_and_wrench:
 - Currently working on a Firebase Chat Application / Instagram Clone :incoming_envelope:
