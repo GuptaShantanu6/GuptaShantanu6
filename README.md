@@ -10,12 +10,41 @@
 - Learning more about MVVM, clean Coding, Coroutines/RxJava :building_construction:
 - Understanding Android Architecture and Kotlin better :green_book:
 
-#### Tech Stack :diamond_shape_with_a_dot_inside:	
+#### Tech stack :diamond_shape_with_a_dot_inside:
+<center>
+	<table>
+		<body>
+			<tr><td  align="center">
+					<span><strong>Kotlin</strong></span><br/>
+					<img height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+				</td>
+				<td  align="center">
+					<span><strong>Android Studio</strong></span><br/>
+					<img height="50px" width="50px" src="https://user-images.githubusercontent.com/3579516/89849306-17fa7780-db3d-11ea-83e8-ce1be0ee979d.png">
+				</td>
+				<td  align="center">
+					<span><strong>Google Firebase</strong></span><br/>
+					<img height="50px" width="50px" src="https://camo.githubusercontent.com/5c4c2f1d7cce956f910b9a0a3d3ecaabc436824c7d023a9aa620eac4ae008a98/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f676f6f676c652d692d6f2d323031362f3531322f676f6f676c655f66697265626173652d322d3531322e706e67">
+				</td>
+				<td  align="center">
+					<span><strong>MySQL, Room</strong></span><br/>
+					<img height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+				</td>
+				<td  align="center">
+					<span><strong>C++ (Competetive Programming)</strong></span><br/>
+					<img height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+				</td>
+			</tr>
+		</body>
+	</table>
+</center>
+
+<!-- #### Tech Stack :diamond_shape_with_a_dot_inside:	
 - Kotlin <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="15" height="15"/>
 - Android Studio <img src="https://user-images.githubusercontent.com/3579516/89849306-17fa7780-db3d-11ea-83e8-ce1be0ee979d.png" width="15" height="15"/>
 - Google Firebase <img src="https://camo.githubusercontent.com/5c4c2f1d7cce956f910b9a0a3d3ecaabc436824c7d023a9aa620eac4ae008a98/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f676f6f676c652d692d6f2d323031362f3531322f676f6f676c655f66697265626173652d322d3531322e706e67" width="23" height="23"/>
 - MySQL, Room  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="23" height="23"/>
-- C++ (Competitive Programming) <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="23" height="23"/>
+- C++ (Competitive Programming) <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="23" height="23"/> -->
 
 #### Hoping to Improve :arrow_up:
 - More Contributions to Open Source Projects <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="20" height="20"/>
