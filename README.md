@@ -1,14 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 #### Who Am I ? :thinking:
-- A Computer Science Student :student:
-- An Aspiring Android Developer :iphone: <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="20" height="20"/>
+- A Computer Science Student <img src="https://media0.giphy.com/media/quEsMOrr3hmQ8/200w.webp?cid=ecf05e47502z4pdfjgs7d43dnbn9l4x9avwmh6v1yg61phym&rid=200w.webp" width="20px">
+- An Aspiring Android Developer <img src="https://media0.giphy.com/media/8VkgrPdxMh0oo/200.webp?cid=ecf05e47l4hcvayc9l3o5fq8uj4hj65vv3t5vg5w1wnzfyma&rid=200.webp" width="20px"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="20" height="20"/>
 - Competetive Programmer :keyboard:
 
 #### What I am currently doing ? <img src="https://media4.giphy.com/media/kHfUyPaDUDBY11l4DZ/giphy.gif?cid=ecf05e4715mnszn7qb0f4aqy47dro9ut8b4p1uzpa488exmi&rid=giphy.gif" width="25px">
-- Currently working on a Firebase Chat Application / Instagram Clone :incoming_envelope:
+- Currently working on a Firebase Chat Application / Instagram Clone <img src="https://media2.giphy.com/media/26FPJGjhefSJuaRhu/200.webp?cid=ecf05e47vojb5vhchq44c8tolkpd3qg9w8hktk7v4u6ogd0e&rid=200.webp" width="20px">
 - Learning more about MVVM, clean Coding, Coroutines/RxJava :building_construction:
-- Understanding Android Architecture and Kotlin better :green_book:
+- Understanding Android Architecture and Kotlin better <img src="https://media0.giphy.com/media/26BkNrGhy4DKnbD9u/200w.webp?cid=ecf05e47udz8h8mm7wi5grvkywlfwgbgcojceosjw8zxq7ou&rid=200w.webp" width="20px">
 - Learning Map Box <img src="https://media1.giphy.com/media/HzMfJIkTZgx8s/200w.webp?cid=ecf05e47c0nh2zmkl3k1mw3pwc6j1xnqc8bikhsccvkwr3rf&rid=200w.webp" width="30px">
 
 #### Tech stack :diamond_shape_with_a_dot_inside:
