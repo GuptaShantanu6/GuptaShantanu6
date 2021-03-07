@@ -5,10 +5,11 @@
 - An Aspiring Android Developer :iphone: <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="20" height="20"/>
 - Competetive Programmer :keyboard:
 
-#### What I am currently doing ? :hammer_and_wrench:
+#### What I am currently doing ? <img src="https://media4.giphy.com/media/kHfUyPaDUDBY11l4DZ/giphy.gif?cid=ecf05e4715mnszn7qb0f4aqy47dro9ut8b4p1uzpa488exmi&rid=giphy.gif" width="25px">
 - Currently working on a Firebase Chat Application / Instagram Clone :incoming_envelope:
 - Learning more about MVVM, clean Coding, Coroutines/RxJava :building_construction:
 - Understanding Android Architecture and Kotlin better :green_book:
+- Learning Map Box <img src="https://media1.giphy.com/media/HzMfJIkTZgx8s/200w.webp?cid=ecf05e47c0nh2zmkl3k1mw3pwc6j1xnqc8bikhsccvkwr3rf&rid=200w.webp" width="30px">
 
 #### Tech stack :diamond_shape_with_a_dot_inside:
 <center>
@@ -46,7 +47,7 @@
 - MySQL, Room  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="23" height="23"/>
 - C++ (Competitive Programming) <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="23" height="23"/> -->
 
-#### Hoping to Improve :arrow_up:
+#### Hoping to Improve <img src="https://media1.giphy.com/media/xT9IgAakXAITtXIWje/200w.webp?cid=ecf05e474mfl3vw7edvg9up8t04rsxq26beltlo9b8x99mfc&rid=200w.webp" width="25px">
 - More Contributions to Open Source Projects <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="20" height="20"/>
 - Data Structures and Algorithm Solving Skills <img src="https://camo.githubusercontent.com/cfdcf29cf720fee70f6aedfdb998b0ce0ecdfd6b3c83843a50dc88f9a00bfcf1/687474703a2f2f6e756d656e74612e6f72672f38376232336265623861346237646561376438383039396266623238643138322e737667" width="20" height="20"/>  <img src="https://static.thenounproject.com/png/1430836-200.png" width="20" height="20"/>
 
