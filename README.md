@@ -6,10 +6,10 @@
 - Competetive Programmer :keyboard:
 
 #### What I am currently doing ? <img src="https://media4.giphy.com/media/kHfUyPaDUDBY11l4DZ/giphy.gif?cid=ecf05e4715mnszn7qb0f4aqy47dro9ut8b4p1uzpa488exmi&rid=giphy.gif" width="25px">
-- Currently working on a Firebase Chat Application / Instagram Clone <img src="https://media2.giphy.com/media/26FPJGjhefSJuaRhu/200.webp?cid=ecf05e47vojb5vhchq44c8tolkpd3qg9w8hktk7v4u6ogd0e&rid=200.webp" width="20px">
+- Currently building a Speed Type Test Application <img src="https://media3.giphy.com/media/xSvnDdn1TGEgkKutCB/giphy.gif?cid=ecf05e47xnhz1rnhcvkbvtvukelknuub7n7pj5tf7dhufrog&rid=giphy.gif&ct=g" width="20px"><img src="https://media4.giphy.com/media/lJNoBCvQYp7nq/giphy.gif?cid=ecf05e472g652my1ga149htacdood69g0iepivhccbw5yxyr&rid=giphy.gif&ct=g" width="20px">
 - Learning more about MVVM, clean Coding, Coroutines/RxJava :building_construction:
 - Understanding Android Architecture and Kotlin better <img src="https://media0.giphy.com/media/26BkNrGhy4DKnbD9u/200w.webp?cid=ecf05e47udz8h8mm7wi5grvkywlfwgbgcojceosjw8zxq7ou&rid=200w.webp" width="20px">
-- Learning Map Box <img src="https://media1.giphy.com/media/HzMfJIkTZgx8s/200w.webp?cid=ecf05e47c0nh2zmkl3k1mw3pwc6j1xnqc8bikhsccvkwr3rf&rid=200w.webp" width="30px">
+- Trying UI/UX and other interesting stuff <img src="https://media1.giphy.com/media/31XkgzAaa2drK5GM4C/giphy.gif?cid=ecf05e473us656lhv190p3ylks7yryiivxa297epiglc92pe&rid=giphy.gif&ct=g" width="20px">
 
 #### Tech stack :diamond_shape_with_a_dot_inside:
 <center>
@@ -32,6 +32,10 @@
 					<img height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 				</td>
 				<td  align="center">
+					<span><strong>Material Design</strong></span><br/>
+					<img height="50px" width="50px" src="https://avatars.githubusercontent.com/u/19478152?s=200&v=4">
+				</td>
+				<td  align="center">
 					<span><strong>C++ (Competetive Programming)</strong></span><br/>
 					<img height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 				</td>
@@ -39,13 +43,6 @@
 		</body>
 	</table>
 </center>
-
-<!-- #### Tech Stack :diamond_shape_with_a_dot_inside:	
-- Kotlin <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="15" height="15"/>
-- Android Studio <img src="https://user-images.githubusercontent.com/3579516/89849306-17fa7780-db3d-11ea-83e8-ce1be0ee979d.png" width="15" height="15"/>
-- Google Firebase <img src="https://camo.githubusercontent.com/5c4c2f1d7cce956f910b9a0a3d3ecaabc436824c7d023a9aa620eac4ae008a98/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f676f6f676c652d692d6f2d323031362f3531322f676f6f676c655f66697265626173652d322d3531322e706e67" width="23" height="23"/>
-- MySQL, Room  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="23" height="23"/>
-- C++ (Competitive Programming) <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="23" height="23"/> -->
 
 #### Hoping to Improve <img src="https://media1.giphy.com/media/xT9IgAakXAITtXIWje/200w.webp?cid=ecf05e474mfl3vw7edvg9up8t04rsxq26beltlo9b8x99mfc&rid=200w.webp" width="25px">
 - More Contributions to Open Source Projects <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="20" height="20"/>
