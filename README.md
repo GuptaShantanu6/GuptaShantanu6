@@ -6,10 +6,9 @@
 - Competetive Programmer :keyboard:
 
 #### What I am currently doing ? <img src="https://media4.giphy.com/media/kHfUyPaDUDBY11l4DZ/giphy.gif?cid=ecf05e4715mnszn7qb0f4aqy47dro9ut8b4p1uzpa488exmi&rid=giphy.gif" width="25px">
-- Currently building a Speed Type Test Application <img src="https://media3.giphy.com/media/xSvnDdn1TGEgkKutCB/giphy.gif?cid=ecf05e47xnhz1rnhcvkbvtvukelknuub7n7pj5tf7dhufrog&rid=giphy.gif&ct=g" width="20px"><img src="https://media4.giphy.com/media/lJNoBCvQYp7nq/giphy.gif?cid=ecf05e472g652my1ga149htacdood69g0iepivhccbw5yxyr&rid=giphy.gif&ct=g" width="20px">
 - Learning more about MVVM, clean Coding, Coroutines/RxJava :building_construction:
 - Understanding Android Architecture and Kotlin better <img src="https://media0.giphy.com/media/26BkNrGhy4DKnbD9u/200w.webp?cid=ecf05e47udz8h8mm7wi5grvkywlfwgbgcojceosjw8zxq7ou&rid=200w.webp" width="20px">
-- Trying UI/UX and other interesting stuff <img src="https://media1.giphy.com/media/31XkgzAaa2drK5GM4C/giphy.gif?cid=ecf05e473us656lhv190p3ylks7yryiivxa297epiglc92pe&rid=giphy.gif&ct=g" width="20px">
+- Trying UI/UX and other related stuff <img src="https://media1.giphy.com/media/31XkgzAaa2drK5GM4C/giphy.gif?cid=ecf05e473us656lhv190p3ylks7yryiivxa297epiglc92pe&rid=giphy.gif&ct=g" width="20px">
 
 #### Tech stack :diamond_shape_with_a_dot_inside:
 <center>
