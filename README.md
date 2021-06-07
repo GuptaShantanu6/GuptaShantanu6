@@ -19,8 +19,8 @@
 					<img height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
 				</td>
 				<td  align="center">
-					<span><strong>Android Studio</strong></span><br/>
-					<img height="50px" width="50px" src="https://user-images.githubusercontent.com/3579516/89849306-17fa7780-db3d-11ea-83e8-ce1be0ee979d.png">
+					<span><strong>Android</strong></span><br/>
+					<img height="50px" width="50px" src="https://avatars.githubusercontent.com/u/32689599?s=200&v=4">
 				</td>
 				<td  align="center">
 					<span><strong>Google Firebase</strong></span><br/>
