@@ -45,7 +45,7 @@
 
 #### Hoping to Improve <img src="https://media1.giphy.com/media/xT9IgAakXAITtXIWje/200w.webp?cid=ecf05e474mfl3vw7edvg9up8t04rsxq26beltlo9b8x99mfc&rid=200w.webp" width="25px">
 - More Contributions to Open Source Projects <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="20" height="20"/>
-- Data Structures and Algorithm Solving Skills <img src="https://camo.githubusercontent.com/cfdcf29cf720fee70f6aedfdb998b0ce0ecdfd6b3c83843a50dc88f9a00bfcf1/687474703a2f2f6e756d656e74612e6f72672f38376232336265623861346237646561376438383039396266623238643138322e737667" width="20" height="20"/>  <img src="https://static.thenounproject.com/png/1430836-200.png" width="20" height="20"/>
+- Data Structures and Algorithm Solving Skills <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSplN3-kEH3wPceaDoGM1psXiLEjnhKwHZmNA&usqp=CAU" width="20" height="20"/> 
 
 <!--
 **GuptaShantanu6/GuptaShantanu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
