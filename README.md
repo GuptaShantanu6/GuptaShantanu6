@@ -45,7 +45,7 @@
 
 #### Hoping to Improve <img src="https://media1.giphy.com/media/xT9IgAakXAITtXIWje/200w.webp?cid=ecf05e474mfl3vw7edvg9up8t04rsxq26beltlo9b8x99mfc&rid=200w.webp" width="25px">
 - More Contributions to Open Source Projects <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="20" height="20"/>
-- Data Structures and Algorithm Solving Skills <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSplN3-kEH3wPceaDoGM1psXiLEjnhKwHZmNA&usqp=CAU" width="20" height="20"/> 
+- Data Structures and Algorithm Solving Skills <img src="https://slaystudy.com/wp-content/uploads/2020/07/tree2.png?ezimgfmt=rs:321x281/rscb1/ng:webp/ngcb1" width="20" height="20"/> 
 
 <!--
 **GuptaShantanu6/GuptaShantanu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
