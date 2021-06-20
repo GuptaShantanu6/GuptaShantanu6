@@ -47,6 +47,9 @@
 - More Contributions to Open Source Projects <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="20" height="20"/>
 - Data Structures and Algorithm Solving Skills <img src="https://slaystudy.com/wp-content/uploads/2020/07/tree2.png?ezimgfmt=rs:321x281/rscb1/ng:webp/ngcb1" width="20" height="20"/> 
 
+![](https://komarev.com/ghpvc/?username=GuptaShantanu6)
+
+
 <!--
 **GuptaShantanu6/GuptaShantanu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
