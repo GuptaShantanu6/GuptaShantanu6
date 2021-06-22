@@ -1,16 +1,19 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-#### Who Am I ? :thinking:
+#### Who Am I ? 
+---
 - A Computer Science Student <img src="https://media0.giphy.com/media/quEsMOrr3hmQ8/200w.webp?cid=ecf05e47502z4pdfjgs7d43dnbn9l4x9avwmh6v1yg61phym&rid=200w.webp" width="20px">
 - An Aspiring Mobile App Developer <img src="https://media0.giphy.com/media/8VkgrPdxMh0oo/200.webp?cid=ecf05e47l4hcvayc9l3o5fq8uj4hj65vv3t5vg5w1wnzfyma&rid=200.webp" width="20px"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="20" height="20"/>
 - Competetive Programmer :keyboard:
 
-#### What I am currently doing ? <img src="https://media4.giphy.com/media/kHfUyPaDUDBY11l4DZ/giphy.gif?cid=ecf05e4715mnszn7qb0f4aqy47dro9ut8b4p1uzpa488exmi&rid=giphy.gif" width="25px">
+#### What I am currently doing ?
+---
 - Learning more about MVVM, clean Coding, Coroutines/RxJava :building_construction:
 - Understanding Android Architecture and Kotlin better <img src="https://media0.giphy.com/media/26BkNrGhy4DKnbD9u/200w.webp?cid=ecf05e47udz8h8mm7wi5grvkywlfwgbgcojceosjw8zxq7ou&rid=200w.webp" width="20px">
 - Trying UI/UX and other related stuff <img src="https://media1.giphy.com/media/31XkgzAaa2drK5GM4C/giphy.gif?cid=ecf05e473us656lhv190p3ylks7yryiivxa297epiglc92pe&rid=giphy.gif&ct=g" width="20px">
 
 #### Tech stack :diamond_shape_with_a_dot_inside:
+---
 <center>
 	<table>
 		<body>
@@ -44,8 +47,12 @@
 </center>
 
 #### Hoping to Improve <img src="https://media1.giphy.com/media/xT9IgAakXAITtXIWje/200w.webp?cid=ecf05e474mfl3vw7edvg9up8t04rsxq26beltlo9b8x99mfc&rid=200w.webp" width="25px">
+---
 - More Contributions to Open Source Projects <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="20" height="20"/>
 - Data Structures and Algorithm Solving Skills <img src="https://slaystudy.com/wp-content/uploads/2020/07/tree2.png?ezimgfmt=rs:321x281/rscb1/ng:webp/ngcb1" width="20" height="20"/> 
+
+#### Socials
+----
 
 [![Linkedin Badge](https://img.shields.io/badge/-ShantanuGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shantanu-gupta-89392013a/)](https://www.linkedin.com/in/shantanu-gupta-89392013a/)[![Gmail Badge](https://img.shields.io/badge/-Gupta.Shantanu6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Gupta.Shantanu6@gmail.com)](mailto:Gupta.Shantanu6@gmail.com)
 
