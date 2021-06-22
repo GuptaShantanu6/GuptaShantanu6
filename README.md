@@ -2,7 +2,7 @@
 
 #### Who Am I ? :thinking:
 - A Computer Science Student <img src="https://media0.giphy.com/media/quEsMOrr3hmQ8/200w.webp?cid=ecf05e47502z4pdfjgs7d43dnbn9l4x9avwmh6v1yg61phym&rid=200w.webp" width="20px">
-- An Aspiring Android Developer <img src="https://media0.giphy.com/media/8VkgrPdxMh0oo/200.webp?cid=ecf05e47l4hcvayc9l3o5fq8uj4hj65vv3t5vg5w1wnzfyma&rid=200.webp" width="20px"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="20" height="20"/>
+- An Aspiring Mobile App Developer <img src="https://media0.giphy.com/media/8VkgrPdxMh0oo/200.webp?cid=ecf05e47l4hcvayc9l3o5fq8uj4hj65vv3t5vg5w1wnzfyma&rid=200.webp" width="20px"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="20" height="20"/>
 - Competetive Programmer :keyboard:
 
 #### What I am currently doing ? <img src="https://media4.giphy.com/media/kHfUyPaDUDBY11l4DZ/giphy.gif?cid=ecf05e4715mnszn7qb0f4aqy47dro9ut8b4p1uzpa488exmi&rid=giphy.gif" width="25px">
