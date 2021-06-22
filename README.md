@@ -47,6 +47,8 @@
 - More Contributions to Open Source Projects <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="20" height="20"/>
 - Data Structures and Algorithm Solving Skills <img src="https://slaystudy.com/wp-content/uploads/2020/07/tree2.png?ezimgfmt=rs:321x281/rscb1/ng:webp/ngcb1" width="20" height="20"/> 
 
+[![Linkedin Badge](https://img.shields.io/badge/-ShantanuGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shantanu-gupta-89392013a/)](https://www.linkedin.com/in/shantanu-gupta-89392013a/)[![Gmail Badge](https://img.shields.io/badge/-Gupta.Shantanu6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Gupta.Shantanu6@gmail.com)](mailto:Gupta.Shantanu6@gmail.com)
+
 ![](https://komarev.com/ghpvc/?username=GuptaShantanu6)
 
 
