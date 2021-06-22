@@ -50,7 +50,7 @@
 ## Socials
 [![Linkedin Badge](https://img.shields.io/badge/-ShantanuGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shantanu-gupta-89392013a/)](https://www.linkedin.com/in/shantanu-gupta-89392013a/)[![Gmail Badge](https://img.shields.io/badge/-Gupta.Shantanu6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Gupta.Shantanu6@gmail.com)](mailto:Gupta.Shantanu6@gmail.com)[![Instagram](https://img.shields.io/badge/-@shantanugupta.x-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shantanugupta.x/)](https://www.instagram.com/shantanugupta.x/)
 
-![](https://komarev.com/ghpvc/?username=GuptaShantanu6)
+
 
 
 <!--
