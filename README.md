@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/38661661/123676894-1a9fb180-d862-11eb-8143-f161a4644347.png)
+![new linkedin panel](https://user-images.githubusercontent.com/38661661/124747898-15b4bf00-df40-11eb-8b72-075172c9b32e.PNG)
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
