@@ -1,6 +1,6 @@
 ![new linkedin panel](https://user-images.githubusercontent.com/38661661/124747898-15b4bf00-df40-11eb-8b72-075172c9b32e.PNG)
 
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px" height="25px">
 
 ## Who Am I ? 
 - A Computer Science Student <img src="https://media0.giphy.com/media/quEsMOrr3hmQ8/200w.webp?cid=ecf05e47502z4pdfjgs7d43dnbn9l4x9avwmh6v1yg61phym&rid=200w.webp" width="20px">
@@ -10,7 +10,7 @@
 ## What I am currently doing ?
 - Learning more about MVVM, clean Coding, Coroutines/RxJava :building_construction:
 - Understanding Android Architecture and Kotlin better <img src="https://media0.giphy.com/media/26BkNrGhy4DKnbD9u/200w.webp?cid=ecf05e47udz8h8mm7wi5grvkywlfwgbgcojceosjw8zxq7ou&rid=200w.webp" width="20px">
-- Trying UI/UX and other related stuff <img src="https://media1.giphy.com/media/31XkgzAaa2drK5GM4C/giphy.gif?cid=ecf05e473us656lhv190p3ylks7yryiivxa297epiglc92pe&rid=giphy.gif&ct=g" width="20px">
+- Trying UI/UX and other related stuff <img src="https://media1.giphy.com/media/31XkgzAaa2drK5GM4C/giphy.gif?cid=ecf05e473us656lhv190p3ylks7yryiivxa297epiglc92pe&rid=giphy.gif&ct=g" width="25px" height="25px">
 
 ## Tech stack :diamond_shape_with_a_dot_inside:
 <center>
